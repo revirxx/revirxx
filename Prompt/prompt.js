@@ -1,0 +1,1 @@
+alert(prompt("Hola, ¿cómo estás?"))
