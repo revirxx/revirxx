@@ -13,7 +13,7 @@ let costo_presupuesto = 89
 // CONSTANTES
 const nocambia = false;
 
-console.log(typeof(persona1))
-console.log(typeof(nombres))
-console.log(typeof(costo_presupuesto))
-console.log(typeof(nocambia))
+console.log(typeof(persona1), persona1)
+console.log(typeof(nombres), nombres)
+console.log(typeof(costo_presupuesto), costo_presupuesto)
+console.log(typeof(nocambia), nocambia)
